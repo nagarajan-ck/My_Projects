@@ -1,4 +1,2 @@
-# hello-world
-My first repository
-
-This is a *README* file which I created when I started to learn `Github`.
+# First Projects
+These are sample web pages that I created when I was first learning HTML and CSS. The projects use only these technologies, and don't use any frameworks.
